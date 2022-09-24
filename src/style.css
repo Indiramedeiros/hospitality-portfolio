@@ -15,7 +15,21 @@ body {
 h1 {
   font-size: 90px;
 }
+h4 {
+  opacity: 80%;
+}
 p {
   font-size: 20px;
   text-align: center;
+}
+.footer-infos {
+  background: #f8f9fa;
+  border-radius: 5px;
+  font-size: 15px;
+}
+@media (max-width: 576px) {
+  h1 {
+    font-size: 70px;
+    text-align: center;
+  }
 }
