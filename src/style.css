@@ -29,7 +29,13 @@ p {
 }
 @media (max-width: 576px) {
   h1 {
-    font-size: 70px;
+    font-size: 60px;
+    text-align: center;
+  }
+  #contact-infos {
+    text-align: left;
+  }
+  #about-me {
     text-align: center;
   }
 }
