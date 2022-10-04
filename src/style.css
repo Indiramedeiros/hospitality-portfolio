@@ -27,13 +27,15 @@ p {
   border-radius: 5px;
   font-size: 15px;
 }
+.namaste {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 70px;
+  padding: 100px;
+}
 @media (max-width: 576px) {
   h1 {
     font-size: 60px;
     text-align: center;
-  }
-  #contact-infos {
-    text-align: left;
   }
   #about-me {
     text-align: center;
